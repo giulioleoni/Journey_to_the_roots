@@ -5582,3 +5582,97 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.02.05-00.18.29:145][767]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2023.02.05-00.18.36:395][350]Cmd: EDIT COPY
 [2023.02.05-00.18.37:636][442]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2023.02.05-00.27.37:531][291]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2023.02.05-00.27.37:685][291]LogSavePackage: Moving '../../../../../Matteo/Documents/Unreal Projects/GGJ-2023/GGJ_2023/Saved/MP_SecondPhase_Auto8BFA4C3DE490871CD590BAB918F5FD34E.tmp' to '../../../../../Matteo/Documents/Unreal Projects/GGJ-2023/GGJ_2023/Saved/Autosaves/Game/Maps/Mattia/MP_SecondPhase_Auto8.umap'
+[2023.02.05-00.27.37:687][291]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Mattia/MP_SecondPhase' took 0.187
+[2023.02.05-00.27.37:687][291]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.187
+[2023.02.05-00.36.19:582][ 78]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GroundMesh)
+[2023.02.05-00.36.20:883][192]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2023.02.05-00.36.24:831][595]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2023.02.05-00.36.24:981][595]LogSavePackage: Moving '../../../../../Matteo/Documents/Unreal Projects/GGJ-2023/GGJ_2023/Saved/MP_SecondPhase1575939E45765928B3C6F69A334CA12E.tmp' to '../../../../../Matteo/Documents/Unreal Projects/GGJ-2023/GGJ_2023/Content/Maps/Mattia/MP_SecondPhase.umap'
+[2023.02.05-00.36.24:998][595]AssetCheck: New page: Asset Save: MP_SecondPhase
+[2023.02.05-00.36.24:998][595]LogContentValidation: Display: Validating World /Game/Maps/Mattia/MP_SecondPhase.MP_SecondPhase
+[2023.02.05-00.36.25:798][684]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2023.02.05-00.36.25:946][684]LogSavePackage: Moving '../../../../../Matteo/Documents/Unreal Projects/GGJ-2023/GGJ_2023/Saved/MP_SecondPhaseBAE5E3334227C641FC3D0480E06131EF.tmp' to '../../../../../Matteo/Documents/Unreal Projects/GGJ-2023/GGJ_2023/Content/Maps/Mattia/MP_SecondPhase.umap'
+[2023.02.05-00.36.25:963][684]AssetCheck: New page: Asset Save: MP_SecondPhase
+[2023.02.05-00.36.25:963][684]LogContentValidation: Display: Validating World /Game/Maps/Mattia/MP_SecondPhase.MP_SecondPhase
+[2023.02.05-00.36.27:033][799]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2023.02.05-00.36.30:717][799]LogSlate: Window 'Save Content' being destroyed
+[2023.02.05-00.36.30:765][799]LogSavePackage: Moving '../../../../../Matteo/Documents/Unreal Projects/GGJ-2023/GGJ_2023/Saved/Erba305C8E1943CB6BC7056178A400CD6B95.tmp' to '../../../../../Matteo/Documents/Unreal Projects/GGJ-2023/GGJ_2023/Content/MyContent/Assets/asset_foglie_bastone/texture/Erba.uasset'
+[2023.02.05-00.36.31:032][799]LogSlate: Window 'Viewport 1' being destroyed
+[2023.02.05-00.36.31:074][799]LogSlate: Window 'GGJ_2023 - Unreal Editor' being destroyed
+[2023.02.05-00.36.31:518][799]AssetCheck: New page: Asset Save: Erba
+[2023.02.05-00.36.31:518][799]LogContentValidation: Display: Validating Material /Game/MyContent/Assets/asset_foglie_bastone/texture/Erba.Erba
+[2023.02.05-00.36.31:519][800]Cmd: QUIT_EDITOR
+[2023.02.05-00.36.31:519][800]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2023.02.05-00.36.31:793][800]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2023.02.05-00.36.33:039][800]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2023.02.05-00.36.33:039][800]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2023.02.05-00.36.33:039][800]LogAudio: Display: Audio Device unregistered from world 'MP_SecondPhase'.
+[2023.02.05-00.36.33:039][800]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.05-00.36.33:040][800]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.05-00.36.33:156][800]LogAudio: Display: Audio Device Manager Shutdown
+[2023.02.05-00.36.33:213][800]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2023.02.05-00.36.33:289][800]LogExit: Preparing to exit.
+[2023.02.05-00.36.34:361][800]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2023.02.05-00.36.37:562][800]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2023.02.05-00.36.37:562][800]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2023.02.05-00.36.37:563][800]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2023.02.05-00.36.37:563][800]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2023.02.05-00.36.37:563][800]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2023.02.05-00.36.37:563][800]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2023.02.05-00.36.37:564][800]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2023.02.05-00.36.37:564][800]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2023.02.05-00.36.37:564][800]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.02.05-00.36.37:564][800]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.02.05-00.36.37:564][800]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.02.05-00.36.37:564][800]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.02.05-00.36.37:564][800]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.02.05-00.36.37:564][800]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.02.05-00.36.37:564][800]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.02.05-00.36.37:564][800]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2023.02.05-00.36.37:564][800]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.02.05-00.36.37:564][800]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.02.05-00.36.37:564][800]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.02.05-00.36.37:564][800]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.02.05-00.36.37:564][800]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.02.05-00.36.37:564][800]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.02.05-00.36.37:564][800]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.02.05-00.36.37:564][800]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2023.02.05-00.36.38:180][800]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2023.02.05-00.36.38:502][800]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2023.02.05-00.36.39:733][800]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2023.02.05-00.36.39:739][800]LogExit: Editor shut down
+[2023.02.05-00.36.39:745][800]LogExit: Transaction tracking system shut down
+[2023.02.05-00.36.48:856][800]LogExit: Object subsystem successfully closed.
+[2023.02.05-00.36.48:932][800]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.02.05-00.36.48:932][800]LogShaderCompilers: Display: Total job queries 791, among them cache hits 326 (41.21%)
+[2023.02.05-00.36.48:932][800]LogShaderCompilers: Display: Tracking 234 distinct input hashes that result in 120 distinct outputs (51.28%)
+[2023.02.05-00.36.48:932][800]LogShaderCompilers: Display: RAM used: 0.61 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.07%
+[2023.02.05-00.36.48:932][800]LogShaderCompilers: Display: ================================================
+[2023.02.05-00.36.49:471][800]LogShaderCompilers: Display: Shaders left to compile 0
+[2023.02.05-00.36.55:954][800]LogModuleManager: Shutting down and abandoning module BlueprintGraph (880)
+[2023.02.05-00.36.55:954][800]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (878)
+[2023.02.05-00.36.55:993][800]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (876)
+[2023.02.05-00.36.56:058][800]LogModuleManager: Shutting down and abandoning module Voice (874)
+[2023.02.05-00.36.56:131][800]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (872)
+[2023.02.05-00.36.56:131][800]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (870)
+[2023.02.05-00.36.56:131][800]LogModuleManager: Shutting down and abandoning module SceneOutliner (868)
+[2023.02.05-00.36.56:131][800]LogModuleManager: Shutting down and abandoning module AddContentDialog (866)
+[2023.02.05-00.36.56:210][800]LogModuleManager: Shutting down and abandoning module WidgetCarousel (865)
+[2023.02.05-00.36.56:210][800]LogModuleManager: Shutting down and abandoning module EditorWidgets (862)
+[2023.02.05-00.36.56:210][800]LogModuleManager: Shutting down and abandoning module StatsViewer (860)
+[2023.02.05-00.36.56:224][800]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (858)
+[2023.02.05-00.36.56:260][800]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (856)
+[2023.02.05-00.36.56:295][800]LogModuleManager: Shutting down and abandoning module AutomationWorker (854)
+[2023.02.05-00.36.56:337][800]LogModuleManager: Shutting down and abandoning module SteamVREditor (852)
+[2023.02.05-00.36.56:337][800]LogModuleManager: Shutting down and abandoning module OculusMR (850)
+[2023.02.05-00.36.56:337][800]LogModuleManager: Shutting down and abandoning module TakeRecorderSources (848)
+[2023.02.05-00.36.56:513][800]LogModuleManager: Shutting down and abandoning module TakeRecorder (847)
+[2023.02.05-00.36.56:577][800]LogModuleManager: Shutting down and abandoning module TakeTrackRecorders (844)
+[2023.02.05-00.36.56:598][800]LogModuleManager: Shutting down and abandoning module TakesCore (842)
+[2023.02.05-00.36.56:648][800]LogModuleManager: Shutting down and abandoning module OpenXRInput (840)
+[2023.02.05-00.36.56:723][800]LogModuleManager: Shutting down and abandoning module GooglePADEditor (838)
+[2023.02.05-00.36.56:723][800]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (836)
+[2023.02.05-00.36.56:723][800]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (834)
+[2023.02.05-00.36.56:762][800]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (832)
