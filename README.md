@@ -1,5 +1,4 @@
 # Journey to the roots
-Roots
 
 For Global Game Jam 2023 we made a team of 15 students and developed a platform using Unreal Engine 4.27.
 
