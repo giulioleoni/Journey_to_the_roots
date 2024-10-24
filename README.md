@@ -13,9 +13,9 @@ At the time I did not know much about Unreal so it was complicated to implement 
 In the end I decided to use boxes placed at the spots in the level where there needed to be a camera switch. When they were overlapped by the player they passed him the position of the new camera and then the camera switch was made.
 
 
-https://github.com/user-attachments/assets/e1f5ac76-3b38-4f0f-92cb-97b6243eab96
 
 
+https://github.com/user-attachments/assets/50d1a97c-c572-4d99-a02c-12a9821410d6
 
 
 
