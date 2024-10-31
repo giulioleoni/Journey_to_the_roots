@@ -28,6 +28,21 @@ To make checkpoints, I created boxes to be placed in the level that, if overlapp
 
 
 
+## Hazards and collectibles
+
+I also worked on an hazard and the collectibles system.
+
+The hazard is a static mesh of a caterpillar with a sphere collision volume and a rotating movement component. When the volume is overlapped by the player it will deal damage:
+
+![photo_2024-10-31_09-44-13](https://github.com/user-attachments/assets/6426a9e4-eca3-40a7-a7a7-cf68ed875e63)
+
+
+
+The collectible is very similar but calls an interface method when it is collected that will update the number of collectables saved in the gamemode:
+
+
+
+![photo_2024-10-31_09-49-51](https://github.com/user-attachments/assets/bdfdd0d1-1077-4361-a4b6-b4bbc5e990d2)
 
 
 
@@ -38,18 +53,7 @@ To make checkpoints, I created boxes to be placed in the level that, if overlapp
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
+https://github.com/user-attachments/assets/dc5fead4-2905-4511-b78b-7857c87c8381
 
 
 
