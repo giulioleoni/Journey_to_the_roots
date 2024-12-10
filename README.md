@@ -1,6 +1,6 @@
 # Journey to the roots
 
-For Global Game Jam 2023 we made a team of 15 students and developed a platform using Unreal Engine 4.27.
+For Global Game Jam 2023 we made a team of 15 students and developed a platformer using Unreal Engine 4.27.
 
 The particularity is that the player can only jump so he must calibrate the force carefully. 
 
